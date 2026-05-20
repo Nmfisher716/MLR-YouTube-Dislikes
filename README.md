@@ -1,6 +1,6 @@
 ## Live Project Report
 
-[YouTube Dislike Count Interactive MLR Report](https://nmfisher716.github.io/MLR-YouTube-Dislikes/)
+
 
 # MLR-YouTube-Dislikes Individual Project
 UX-focused behavioral analytics project using multiple linear regression to model YouTube audience engagement and predict video dislike patterns through interactive Quarto and Shiny-based analytics.
