@@ -2,7 +2,7 @@
 
 
 
-# MLR-YouTube-Dislikes Individual Project
+# MLR YouTube Dislikes Individual Project
 UX-focused behavioral analytics project using multiple linear regression to model YouTube audience engagement and predict video dislike patterns through interactive Quarto and Shiny-based analytics.
 
 ## Project Overview
@@ -15,8 +15,6 @@ The project explores relationships between user engagement patterns and dislike 
 
 - Multiple Linear Regression (MLR)
 - Log-Log Regression Modeling
-- Polynomial Regression
-- Interaction Effects
 - Box-Cox Transformation Exploration
 - AIC-Based Model Selection
 - Cross Validation
@@ -33,8 +31,6 @@ Predictor Variables:
 - Likes
 - Comment Count
 - Engagement Ratios
-- Polynomial Features
-- Interaction Terms
 - Log-Transformed Predictors
 
 ## Regression Assumptions Evaluated
